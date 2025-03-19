@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\bin\Debug\net8.0\task_studentclass.exe
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\bin\Debug\net8.0\task_studentclass.deps.json
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\bin\Debug\net8.0\task_studentclass.runtimeconfig.json
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\bin\Debug\net8.0\task_studentclass.dll
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\bin\Debug\net8.0\task_studentclass.pdb
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.dll
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\refint\task_studentclass.dll
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.pdb
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\task_studentclass.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\task_studentclass\task_studentclass\obj\Debug\net8.0\ref\task_studentclass.dll
